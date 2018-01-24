@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("sr.unasat.myapplication", appContext.getPackageName());
+        assertEquals("sr.unasat.rest", appContext.getPackageName());
     }
 }
