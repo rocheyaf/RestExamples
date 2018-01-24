@@ -4,7 +4,7 @@ Rest call example based on countries api.
 #Bestudeer de java classes i.h.b. de MainActivity class.
 
 #Opdracht 1: 
-Refactor de  getCountryData() method zodat deze filtered op basis van 1 land i.p.v. de hele lijst landen op te halen.
+Refactor de  getCountryData() method zodat deze filtered op basis van 1 land i.p.v. de hele lijst landen alvorens op te halen.
 
 
 #Opdracht 2:
