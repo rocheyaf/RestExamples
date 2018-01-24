@@ -1,5 +1,6 @@
 # RestExamples
 Rest call example based on countries api.
+URL: https://restcountries.eu/
 
 #Bestudeer de java classes i.h.b. de MainActivity class.
 
