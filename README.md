@@ -20,6 +20,9 @@ Na selectie van een land dient er detail informatie getoont te worden op het zel
 
 #Gebruik de UI Components uit hoofdstuk 1 t/m 8 
 
-gebruik een andere rest api en bouw een eigen app die data trekt
+#Opdracht 5:
+gebruik een andere rest api en bouw een eigen app die data trekt middels een GET request.
 url: https://jsonplaceholder.typicode.com/
 
+#Challenge:
+Onderzoek hoe jij een POST request kan uitvoeren om data te versturen naar een rest service voor data opslag.
