@@ -23,6 +23,7 @@ Na selectie van een land dient er detail informatie getoont te worden op het zel
 #Opdracht 5:
 gebruik een andere rest api en bouw een eigen app die data trekt middels een GET request.
 url: https://jsonplaceholder.typicode.com/
+url: https://any-api.com/
 
 #Challenge:
 Onderzoek hoe jij een POST request kan uitvoeren om data te versturen naar een rest service voor data opslag.
