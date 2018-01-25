@@ -20,6 +20,6 @@ Na selectie van een land dient er detail informatie getoont te worden op het zel
 
 #Gebruik de UI Components uit hoofdstuk 1 t/m 8 
 
-# gebruik een andere rest api en bouw een eigen app die data trekt
+gebruik een andere rest api en bouw een eigen app die data trekt
 url: https://jsonplaceholder.typicode.com/
 
