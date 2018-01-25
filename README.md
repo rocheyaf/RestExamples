@@ -19,6 +19,7 @@ Bouw de UI uit zodat er een lijst van landen(namen) te zien is.
 Na selectie van een land dient er detail informatie getoont te worden op het zelfde scherm.
 
 #Gebruik de UI Components uit hoofdstuk 1 t/m 8 
+
 # gebruik een andere rest api en bouw een eigen app die data trekt
 url: https://jsonplaceholder.typicode.com/
 
