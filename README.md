@@ -15,7 +15,7 @@ Bouw de UI uit zodat de land informatie te zien is op het scherm.
 Bouw de   getCountryData() method uit zodat deze by default alle landen ophaalt indien er geen landnaam word ingevoerd.
 
 #Opdracht 4:
-Bouw de UI uit zodat er een lijst van landen te zien is.
+Bouw de UI uit zodat er een lijst van landen(namen) te zien is.
 Na selectie van een land dient er detail informatie getoont te worden op het zelfde scherm.
 
 #Gebruik de UI Components uit hoofdstuk 1 t/m 8 
